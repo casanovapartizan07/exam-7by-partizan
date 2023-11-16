@@ -1,0 +1,14 @@
+{
+	"$schema": "./tsconfig.json",
+	"compilerOptions": {
+		"strict": true,
+		"moduleResolution": "Node",
+		"noImplicitAny": true,
+		"outDir": "dist",
+		"sourceMap": true,
+		"target": "es6",
+		"module": "es2015",
+		"noEmitOnError": true,
+		"strictNullChecks": true
+	}
+}
