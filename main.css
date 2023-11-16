@@ -1,7 +1,7 @@
 .btn-success {
-	background-color: brown;
+	background-color: brown !important;
 }
 
 body{
-	background-color: red;
+	background-color: red !important;
 }
